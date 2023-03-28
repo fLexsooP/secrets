@@ -1,0 +1,21 @@
+{
+  "name": "secrets",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Chence Shi <ascc594557067@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/fLexsooP/secrets",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-social": "^5.1.1"
+  }
+}
